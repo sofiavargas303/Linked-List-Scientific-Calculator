@@ -97,7 +97,7 @@ public class BigInteger {
         return result;
     }
 
-    // ================= EXPONENT =================
+    // EXPONENT
     // Uses exponentiation by squaring (fast method).
     public BigInteger exponent(int exponent) {
 
